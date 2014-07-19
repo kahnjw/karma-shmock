@@ -1,0 +1,16 @@
+{
+  "name": "karma-shmock",
+  "version": "0.0.0",
+  "description": "Shmock for Karma",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "~1.0.6",
+    "socket.io-client": "~1.0.6",
+    "shmock": "~0.7.0"
+  }
+}
