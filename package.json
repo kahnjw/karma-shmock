@@ -4,7 +4,7 @@
   "description": "Shmock for Karma",
   "main": "lib/index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "karma start"
   },
   "author": "",
   "license": "MIT",
